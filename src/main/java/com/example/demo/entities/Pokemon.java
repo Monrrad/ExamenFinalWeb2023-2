@@ -5,7 +5,7 @@ import lombok.Data;
 import java.util.Date;
 
 @Data
-public class pokemon {
+public class Pokemon {
 
     Integer id;
     String nombre;
