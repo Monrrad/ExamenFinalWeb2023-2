@@ -1,4 +1,4 @@
-package service;
+package com.example.demo.service;
 
 import com.example.demo.entities.Pokemon;
 import com.example.demo.repositories.EntrenadorRepository;
